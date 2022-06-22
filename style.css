@@ -157,6 +157,16 @@ aside > ul {
     list-style-position: inside;
     columns: 2;
 }
+
+textarea{
+    max-width: 90%;
+    width: 500px;
+    height: 120px;
+  }
+.campo{
+    display: block;
+    height: 30px;
+  }
 footer {
     background-color: white;
     color: var(--cor5);
